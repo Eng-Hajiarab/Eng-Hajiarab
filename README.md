@@ -84,18 +84,6 @@ I enjoy designing clean architectures, writing maintainable code, and continuous
 
 ---
 
-## 📈 GitHub Stats
-
-Feel free to add GitHub stat cards here:
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on:
